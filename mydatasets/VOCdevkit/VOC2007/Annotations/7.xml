@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>7.jpeg</filename>
+	<path>F:\python_project\yolov5_project\yolov5-6.1-blog-demo\mydatasets\VOCdevkit\VOC2007\JPEGImages\7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>life_buoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>138</ymin>
+			<xmax>498</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

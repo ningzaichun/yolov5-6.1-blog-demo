@@ -1,0 +1,6 @@
+F:\python_project\yolov5_project\yolov5-6.1-blog-demo\mydatasets\VOCdevkit/VOC2007/JPEGImages/25.jpg
+F:\python_project\yolov5_project\yolov5-6.1-blog-demo\mydatasets\VOCdevkit/VOC2007/JPEGImages/27.jpg
+F:\python_project\yolov5_project\yolov5-6.1-blog-demo\mydatasets\VOCdevkit/VOC2007/JPEGImages/28.jpg
+F:\python_project\yolov5_project\yolov5-6.1-blog-demo\mydatasets\VOCdevkit/VOC2007/JPEGImages/3.jpg
+F:\python_project\yolov5_project\yolov5-6.1-blog-demo\mydatasets\VOCdevkit/VOC2007/JPEGImages/6.jpeg
+F:\python_project\yolov5_project\yolov5-6.1-blog-demo\mydatasets\VOCdevkit/VOC2007/JPEGImages/7.jpeg
